@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to survive while working
   and studying at the same time
 - 📫 You can reach out to me via telegram @Zeems111
-- ⚡ Fun fact: when you eat pineapple, pineapple eats you back!
+- ⚡ Fun fact: when you eat a pineapple, it eats you back!
 
 <!---
 Zeems111/Zeems111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
