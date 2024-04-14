@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Zeems111
-- 👀 I’m interested in maths, ds and some fantasy books/worlds/games
+- 👀 I’m interested in maths, data science, machine learning
+  and some fantasy books/worlds/games.
 - 🌱 I’m currently learning how to survive while working
   and studying at the same time
 - 📫 You can reach out to me via telegram @Zeems111
